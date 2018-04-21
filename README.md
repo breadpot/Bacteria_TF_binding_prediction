@@ -1,0 +1,6 @@
+# Bacteria_TF_binding_prediction
+
+这个目录放置转录因子结合位点预测相关文件与模型
+
+模型使用Tensorflow及context框架
+
